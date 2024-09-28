@@ -11,11 +11,11 @@ Last update: 19th January.
 
 
 var filenames = [
-	['Stock KSP', 'images/imagery/StockKSP.png'],
-	['Upscaled 4x1x-x2', 'images/imagery/Upscaled4x1x-x2.png'],
-	['Upscaled 4x2x', 'images/imagery/Upscaled4x2x.png'],
-	['Upscaled 4x3x', 'images/imagery/Upscaled4x3x.png'],
-	['Upscaled 4x4x', 'images/imagery/Upscaled4x4x.png']
+	['Stock KSP', 'images/imagery/Exaxis_4stock.png'],
+	['Upscaled 4x1x-x2', 'images/imagery/Exaxis_41x2x.png'],
+	['Upscaled 4x2x', 'images/imagery/Exaxis_42x.png'],
+	['Upscaled 4x3x', 'images/imagery/Exaxis_43x.png'],
+	['Upscaled 4x4x', 'images/imagery/Exaxis_44x.png']
 ]
 
 // Window onload 
