@@ -3,44 +3,6 @@
 Enhancement of Stock Asset textures in 4 different settings
 <br>
 
-<body>
-  <!-- Title header information -->
-  <div class="header-bar">
-  	<div class="subject">
-  		<h2 class="subtitle">Upscayled Enhanced</h2>
-  	</div>
-  	<div class="country-title">
-  		<h1 class="title-text">KSP Upscaled - Core</h1>
-  	</div>
-  </div>
-
-  <!-- Left and Right Image containers -->
-  <div class="container">
-  	<!-- Imagery name  -->
-  	<div id="leftTabs" class="tabColumn">
-  		<div id="leftTabTitle" class="sideTabTitle">left</div>
-  		<div id="leftLayersList" class="imageryLayersTabs tabContainer"></div>
-  	</div>
-
-  	<div id="rightTabs" class="tabColumn">
-  		<div id="rightTabTitle" class="sideTabTitle">right</div>
-  		<div id="rightLayersList" class="imageryLayersTabs tabContainer"></div>
-  	</div>
-
-  	<!-- Image slider -->
-  	<div id="sliderbox" class="img-container">
-  		<!-- Right Image -->
-  		<img class="fitcenter" id="img_right" src="images/imagery/Upscaled4x4x.png">
-  		<!-- Left image -->
-  		<div class="imgholder img-top">
-  			<img class="fitcenter" id="img_left" src="images/imagery/StockKSP.png">
-  		</div>
-  		<span class="handle"></span>
-  	</div>
-
-  </div>
-
-</body>
 
 
 <b><a href="https://github.com/Lucke001/KSP-Upscaled-Squad">[1.12.X] KSP Upscaled - Squad is recommended with this mod</a></b>
