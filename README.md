@@ -45,5 +45,30 @@ Be careful of your RAM usage with this package, as it is demanding on hardware. 
 
 I recommend testing with: <a href="https://github.com/linuxgurugamer/ShowFPS">Show FPS</a> & <a href="https://github.com/linuxgurugamer/MemGraph">MemGraph</a>. You will have a good idea of the performance hit you get with the textures.
 
-Have fun !
+Have fun ! <br><br>
+
+<div align="left">
+Do you think this mod makes a difference ?
+</br>
+<a href="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/1/vote">
+<img alt="Option1" src="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/1"/>
+</a>
+</br>
+
+<a href="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/2/vote">
+<img alt="Option2" src="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/2"/>
+</a>
+</br>
+
+<a href="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/3/vote">
+<img alt="Option3" src="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/3"/>
+</a> 
+</br>
+
+<a href="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/4/vote">
+<img alt="Option4" src="https://widgetbite.com/polls/1fbd8e44-905a-4f66-b9a9-4193581cf11a/options/4"/>
+</a>
+</br>
+</div>
+
 
