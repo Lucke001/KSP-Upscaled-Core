@@ -12,7 +12,7 @@ Enhancement of Stock Asset textures in 3 different settings
 <br><br><br>
 <b>Process:</b><br>
 
-- Used AssetStudio to first extract the SharedAssets.assets textures;<br>
+- Used AssetStudio to first extract the textures;<br>
 - AI Enhanced 1x, Enhanced 2x and 4x with Upscayled, <br>
 - Created RAW folder for textures<br>
 - Used a custom Batch file to convert PNG textures to 4 different settings:<br>
