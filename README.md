@@ -2,9 +2,9 @@
 <img src="https://i.postimg.cc/qqPGTRds/Compression-8k.png" alt="KSPUpscaled Squad" />
 Enhancement of Stock Asset textures in 3 different settings
 <br>
-
+<br>
 <b><a href="https://ksp-upscaled-core-compare.neocities.org/4xcompare/compare">Please have a look over for a clear comparison of textures (in this example, Jool Clouds)</a></b><br>
-
+<br>
 
 <b><a href="https://github.com/Lucke001/KSP-Upscaled-Squad">[1.12.X] KSP Upscaled - Squad is recommended with this mod</a></b>
 <br>
