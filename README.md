@@ -3,7 +3,7 @@
 Enhancement of Stock Asset textures in 3 different settings
 <br>
 
-![Compare](https://github.com/Lucke001/KSP-Upscaled-Core/blob/main/comparejool.svg) 
+![Compare](https://github.com/Lucke001/KSP-Upscaled-Core/blob/main/test.svg) 
 
 https://ksp-upscaled-core-compare.neocities.org/4xcompare/compare
 
