@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+  <div class="header-bar">
+  	<div class="subject">
+  		<h2 class="subtitle">Jool Clouds Comparison</h2>
+  	</div>
+  	<div class="country-title">
+  		<h1 class="title-text">Different repacks</h1>
+  	</div>
+  </div>
+
+  <!-- Left and Right Image containers -->
+  <div class="container">
+  	<!-- Imagery name  -->
+  	<div id="leftTabs" class="tabColumn">
+  		<div id="leftTabTitle" class="sideTabTitle">left</div>
+  		<div id="leftLayersList" class="imageryLayersTabs tabContainer"></div>
+  	</div>
+
+  	<div id="rightTabs" class="tabColumn">
+  		<div id="rightTabTitle" class="sideTabTitle">right</div>
+  		<div id="rightLayersList" class="imageryLayersTabs tabContainer"></div>
+  	</div>
+
+  	<!-- Image slider -->
+  	<div id="sliderbox" class="img-container">
+  		<!-- Right Image -->
+  		<img class="fitcenter" id="img_right" src="https://ksp-upscaled-core-compare.neocities.org/4xcompare/images/imagery/CloudPattern4x_result_result.png">
+  		<!-- Left image -->
+  		<div class="imgholder img-top">
+  			<img class="fitcenter" id="img_left" src="https://ksp-upscaled-core-compare.neocities.org/4xcompare/images/imagery/CloudPatternstock_result_result.png">
+  		</div>
+  		<span class="handle"></span>
+  	</div>
+
+  </div>
+  </foreignObject>
+</svg>
