@@ -1,0 +1,10 @@
+<svg width="1000" height="500" xmlns="https://ksp-upscaled-core-compare.neocities.org/4xcompare/compare">
+<foreignObject width="1000" height="500">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
