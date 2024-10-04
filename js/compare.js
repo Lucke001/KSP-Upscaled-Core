@@ -11,11 +11,10 @@ Last update: 19th January.
 
 
 var filenames = [
-	['Stock KSP', 'images/imagery/Exaxis_4stock.png'],
-	['Upscaled 4x1x-x2', 'images/imagery/Exaxis_41x2x.png'],
-	['Upscaled 4x2x', 'images/imagery/Exaxis_42x.png'],
-	['Upscaled 4x3x', 'images/imagery/Exaxis_43x.png'],
-	['Upscaled 4x4x', 'images/imagery/Exaxis_44x.png']
+	['Jool Stock', 'images/imagery/CloudPatternstock_result_result.png'],
+	['Jool Enhanced + 1x', 'images/imagery/CloudPattern1x_result_result.png'],
+	['Jool Enhanced + 2x', 'images/imagery/CloudPattern2x_result_result.png'],
+	['Jool Enhanced + 4x', 'images/imagery/CloudPattern4x_result_result.png'],
 ]
 
 // Window onload 
@@ -37,7 +36,7 @@ window.onload = function () {
 
 
 // Window on resize
-window.addEventListener('resize', function() {
+window.addEventListener('fit', function() {
 	var curr = document.getElementById('sliderbox');
 	Array.from(curr.children).forEach(child => {
 		var width = curr.offsetWidth + 'px';
